@@ -1,0 +1,6 @@
+{
+    "jscodehints.detectedExclusions": [
+        "/home/tapas/viz_app/phylogenomics-viz/js/dendogram.js",
+        "/home/tapas/viz_app/phylogenomics-viz/js/app.js"
+    ]
+}
