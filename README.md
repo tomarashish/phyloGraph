@@ -7,7 +7,7 @@
   * Integration of genomic or metadata to create custom visualization (such as bar chart, heat-map, sequence alignment, etc.) along with the tree
   * Visualizing meta-information (quantitive and categorical)
 
-### Demo [Phylogenomic Visualization](http://biographika.com/phylogenomics-viz/)
+### Demo [Phylogenomic Visualization](https://tomarashish.github.io/phyloGraph)
 
 ### External dependencies of phylogenomics visualization library
 
@@ -22,7 +22,7 @@
 1. Clone the repo:
 
     ```
-    git clone https://github.com/biographika/phylogenomics-viz.git
+    git clone https://github.com/tomarashish/phyloGraph.git
     ```
 
 2. Move into the directory:
